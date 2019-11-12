@@ -1,0 +1,33 @@
+#matrix input{
+  width:80px;
+  padding:5px;
+  font-size:24px;
+}
+#result{border:1px solid black;
+  border-radius:5px;
+background-color:black;
+width:65px;
+  font-size:20px;
+  color:white;
+}
+
+#Determinant{font-size:45px;
+color:red;}
+#determinant{
+  font-size:22px;
+  color:black;
+}
+#Solution{font-size:20px;
+color:gray;}
+img{width:25px;margin-left:35px;
+  color:silver;margin-top:5px;
+}
+
+.Def{font-size:20px;}
+.rer{color:gray;}
+.all{display: flex;
+}
+.Name{font-size:25px;}
+#Right{margin-left:40px;
+}
+.p{color:gray;}
